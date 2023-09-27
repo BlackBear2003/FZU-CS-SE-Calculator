@@ -17,7 +17,6 @@ public class CalculatorTest {
   @Test
   public void testAddition() {
     calculator.getTextField().setText("2+3");
-
     calculator.getEvalBtn().doClick();
     assertEquals("5", calculator.getLastResult());
   }
