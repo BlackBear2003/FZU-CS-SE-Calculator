@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f93aa97-ef77-4f99-b4f7-f2718e0dda7a" name="Changes" comment="- first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/host/luke/calculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/host/luke/calculator/CalculatorTest.java" afterDir="false" />
+    <list default="true" id="0f93aa97-ef77-4f99-b4f7-f2718e0dda7a" name="Changes" comment="- add class needed">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/weizhile/Developer/FZU-SE/Calculator",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.116279066",
@@ -46,6 +46,14 @@
     "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="host.luke.calculator.Calculator" />
@@ -106,7 +114,7 @@
       <updated>1695694781625</updated>
       <workItem from="1695694782845" duration="3827000" />
       <workItem from="1695774068720" duration="15215000" />
-      <workItem from="1695805429537" duration="9295000" />
+      <workItem from="1695805429537" duration="9626000" />
     </task>
     <task id="LOCAL-00001" summary="- first commit">
       <created>1695817647997</created>
@@ -115,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695817647997</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- add class needed">
+      <created>1695824387568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695824387568</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="- first commit" />
+    <MESSAGE value="- add class needed" />
+    <option name="LAST_COMMIT_MESSAGE" value="- add class needed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Calculator$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1695821330215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
